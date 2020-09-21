@@ -1,0 +1,8 @@
+site_name: test-component
+site_description: test-react-website-1
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
